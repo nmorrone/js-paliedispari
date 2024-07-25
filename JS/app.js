@@ -33,7 +33,7 @@ function palindroma(word) {
 }
 
 //invoco la funzione passandogli il valore inserito precedentemente dall'utente
-risultato = palindroma(parola)
+result = palindroma(parola)
 
 //stampo il valore boolean in outpu della mia funzione
 console.log(result)
